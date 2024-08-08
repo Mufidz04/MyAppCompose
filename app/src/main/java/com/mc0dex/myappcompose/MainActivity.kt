@@ -64,7 +64,6 @@ fun HomepageContent(navController: NavController) {
         MenuItem("Project 5:Mobile Input Activity", "mobileInput"),
         MenuItem("Project 5:Kalkulator", "kalkulator"),
         MenuItem("Project 5:ListView Activity", "listView"),
-        MenuItem("Project 7:Kominfo App Activity", "kominfo")
     )
 
     Surface(
