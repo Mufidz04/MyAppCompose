@@ -25,7 +25,7 @@ MyAppCompose is a project that demonstrates various features using Jetpack Compo
     - Static list of Array rendering.
     - Item details.
 
-#Screenshoot
+# Screenshoot
 ![image](https://github.com/user-attachments/assets/11df6049-281e-4cbe-9c75-21f659cc5da7)
 ![image](https://github.com/user-attachments/assets/1d7978bc-ab15-4ae1-b5e7-2e4901e49a7a)
 ![image](https://github.com/user-attachments/assets/4d46f246-f93f-419e-95ce-75c76a1a3239)
